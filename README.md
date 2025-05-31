@@ -81,12 +81,19 @@ Pivot Charts	✅
 Custom Formatting	✅
 Dual Axis Charts	✅
 Pie/Bar/Line Charts	✅
+
 📈 Business Insights
+
 🛒 High-Spending Categories: Electronics take the largest chunk of spending.
+
 📦 Top Items by Quantity: Office supplies like notepads, printers, and laptop bags are purchased in bulk.
+
 👥 Top Customers: Helps identify your most valuable clients.
+
 🧾 Supplier Breakdown: Useful to assess vendor dependency and diversification.
+
 ⚖️ Quantity vs Cost Analysis: Helps spot over- or under-valued items.
+
 Author
 NAME: Riya Dewangan
 
