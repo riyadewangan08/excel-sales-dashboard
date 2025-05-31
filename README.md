@@ -24,7 +24,7 @@ To analyze a company's internal sales data and build a professional dashboard th
 - How does cost compare to quantity?
 
 - 
-- 🗂️ Project Structure
+🗂️ Project Structure
 📂 Sales-Dashboard-Excel/ ├── sales database.xlsx # Excel workbook (contains raw data, analysis & dashboard)
 
 ├── dashboard.png # Dashboard image for preview
