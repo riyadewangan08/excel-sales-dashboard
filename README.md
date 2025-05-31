@@ -2,7 +2,7 @@
 
 Welcome to the **Sales Data Analysis Dashboard** project — a fully Excel-based interactive dashboard that gives deep insights into sales performance, buyer behavior, supplier contributions, and item trends.
 
-This project is a demonstration of how Microsoft Excel can be turned into a **powerful data visualization tool** using nothing but built-in features like **Pivot Tables**, **Pivot Charts**, and **Slicers** — without any coding.
+This project is a demonstration of how Microsoft Excel can be turned into a **powerful data visualization tool** using nothing but built-in features like **Pivot Tables**, **Pivot Charts** without any coding.
 
 ---
 
