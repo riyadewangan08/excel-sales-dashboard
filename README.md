@@ -55,12 +55,19 @@ Pie chart giving a clear view of supplier contributions — useful for vendor an
 Contains the full sales dataset, including:
 
 Item name
+
 Buyer
+
 Quantity
+
 Unit Price
+
 Supplier
+
 Total Cost
+
 Category
+
 📌 data analysis
 This sheet contains all pivot tables used in the dashboard. Each chart in the dashboard pulls data from here.
 
