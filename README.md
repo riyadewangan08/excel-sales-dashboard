@@ -63,7 +63,9 @@ Quantity
 Unit Price
 
 Supplier
+
 Total Cost
+
 Category
 
 📌 data analysis
