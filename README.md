@@ -24,14 +24,14 @@ To analyze a company's internal sales data and build a professional dashboard th
 - How does cost compare to quantity?
 
 - 
-🗂️ Project Structure
+## 🗂️ Project Structure
 📂 Sales-Dashboard-Excel/ ├── sales database.xlsx # Excel workbook (contains raw data, analysis & dashboard)
 
 ├── dashboard.png # Dashboard image for preview
 
 └── README.md # Project documentation (this file)
 
-📊 Excel Dashboard Features
+## 📊 Excel Dashboard Features
 🔹 Total Cost by Item Category
 Bar chart that displays how much each category contributes to total spending — Electronics and Software stand out.
 
@@ -50,7 +50,7 @@ Dual-axis combo chart to compare how much of an item was purchased vs how expens
 🔹 Purchase Percentage by Supplier
 Pie chart giving a clear view of supplier contributions — useful for vendor and procurement analysis.
 
-📄 Excel Sheet Tabs Breakdown
+## 📄 Excel Sheet Tabs Breakdown
 📌 database
 Contains the full sales dataset, including:
 
@@ -68,13 +68,13 @@ Total Cost
 
 Category
 
-📌 data analysis
+## 📌 data analysis
 This sheet contains all pivot tables used in the dashboard. Each chart in the dashboard pulls data from here.
 
-📌 dashboard
+## 📌 dashboard
 The final sheet where all visuals are placed with clean formatting, titles, and slicers for interactivity.
 
-🧰 Tools & Features Used
+## 🧰 Tools & Features Used
 Feature	Used ✅
 Pivot Tables	✅
 Pivot Charts	✅
@@ -82,7 +82,7 @@ Custom Formatting	✅
 Dual Axis Charts	✅
 Pie/Bar/Line Charts	✅
 
-📈 Business Insights
+## 📈 Business Insights
 
 🛒 High-Spending Categories: Electronics take the largest chunk of spending.
 
