@@ -94,7 +94,8 @@ Pie/Bar/Line Charts	✅
 
 ⚖️ Quantity vs Cost Analysis: Helps spot over- or under-valued items.
 
-Author
+## Author
+
 NAME: Riya Dewangan
 
 EMAIL: riyadew77@gmail.com
