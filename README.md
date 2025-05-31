@@ -63,9 +63,7 @@ Quantity
 Unit Price
 
 Supplier
-
 Total Cost
-
 Category
 
 📌 data analysis
@@ -100,9 +98,5 @@ NAME: Riya Dewangan
 EMAIL: riyadew77@gmail.com
 
 
-
----
-
-## 🗂️ Project Structure
 
 
