@@ -10,7 +10,7 @@ This project is a demonstration of how Microsoft Excel can be turned into a **po
 
 > 📌 Screenshot of the final dashboard:
 
-![Sales Dashboard](dashboard.png)
+
 
 ---
 
