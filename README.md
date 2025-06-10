@@ -9,8 +9,7 @@ This project is a demonstration of how Microsoft Excel can be turned into a **po
 ## 🖼️ Dashboard Preview
 
 > 📌 Screenshot of the final dashboard:
-https://github.com/riyadewangan08/excel-sales-dashboard/blob/3741ad356595f65e010fc776dfae95b19d71b5c6/dashboard.PNG
-
+>![Image](https://github.com/user-attachments/assets/0095f589-b327-4bd5-80f2-84d081e1d454)
 
 ---
 
